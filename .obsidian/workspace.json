@@ -11,10 +11,14 @@
             "id": "2d8c1dadaff7fa2a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Vulnversity/Port 3333 (HTTP).md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Port 3333 (HTTP)"
             }
           }
         ]
@@ -198,6 +202,14 @@
   },
   "active": "2d8c1dadaff7fa2a",
   "lastOpenFiles": [
+    "Vulnversity/Active Recon.md",
+    "Vulnversity/Port 3333 (HTTP).md",
+    "Attachments/Pasted image 20250807125356.png",
+    "Attachments/Pasted image 20250807125019.png",
+    "Vulnversity/Host.md",
+    "Attachments/Pasted image 20250807124813.png",
+    "Attachments",
+    "Vulnversity",
     "TryHackME/Vulnversity/Active Recon.md",
     "Attachments/Pasted image 20250712144710.png",
     "Attachments/Pasted image 20250712125757.png",
@@ -211,9 +223,6 @@
     "Attachments/Pasted image 20250624230441.png",
     "Attachments/Pasted image 20250624230200.png",
     "Attachments/Pasted image 20250624225252.png",
-    "Attachments/Pasted image 20250624225057.png",
-    "Attachments/Pasted image 20250623150729.png",
-    "Attachments/Pasted image 20250623150535.png",
     "Linux/Linux Book/Part 1 - Learning the Shell/Untitled.md",
     "Linux/Linux Book/Part 1 - Learning the Shell",
     "Linux/Linux Book",
@@ -235,9 +244,7 @@
     "Recon Exam/Exam/185.218.124.165",
     "Recon Exam/Exam",
     "Untitled.canvas",
-    "Recon Exam",
     "PPMG (Pen Test)/PPMG (Pen Test).md",
-    "PPMG (Pen Test)",
     "Virtual Machines/Mind Map.canvas",
     "Virtual Machines/VMWorkstation Pro Machine Download (Ubuntu).md",
     "Recon - APR25/Metadata.md",
@@ -245,9 +252,7 @@
     "Recon - APR25/L6 - System Scanning/Untitled.md",
     "Recon - APR25/L3 - Active Recon/Untitled.md",
     "CP - MAR25/L4 - Injection Attacks/Untitled.md",
-    "CP - MAR25/L3 - Web Vulnerabilities/Untitled.md",
     "CP - MAR25/L1 - How WebApps Are Working/WebApps.canvas",
-    "README.md",
     "CP - MAR25/L1 - How WebApps Are Working/Web Servers.canvas",
     "INTRO - FEB25/L5 - Setup/Network.canvas",
     "INTRO - FEB25/Softuni/Pentesting.canvas",
