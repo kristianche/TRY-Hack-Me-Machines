@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vulnversity/Port 3333 (HTTP).md",
+                "file": "Vulnversity/Host.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Port 3333 (HTTP)"
+              "title": "Host"
             }
           }
         ]
@@ -202,11 +202,11 @@
   },
   "active": "2d8c1dadaff7fa2a",
   "lastOpenFiles": [
+    "Vulnversity/Port 3333 (HTTP).md",
+    "Vulnversity/Active Recon.md",
     "Attachments/Pasted image 20250807130951.png",
     "Attachments/Pasted image 20250807130720.png",
     "Vulnversity/Host.md",
-    "Vulnversity/Port 3333 (HTTP).md",
-    "Vulnversity/Active Recon.md",
     "Attachments/Pasted image 20250807125356.png",
     "Attachments/Pasted image 20250807125019.png",
     "Attachments/Pasted image 20250807124813.png",
@@ -223,7 +223,6 @@
     "Linux/Linux Book/Part 1 - Learning the Shell/2 - Navigation.md",
     "Attachments/Pasted image 20250624230726.png",
     "Attachments/Pasted image 20250624230441.png",
-    "Attachments/Pasted image 20250624230200.png",
     "Linux/Linux Book/Part 1 - Learning the Shell/Untitled.md",
     "Linux/Linux Book/Part 1 - Learning the Shell",
     "Linux/Linux Book",

