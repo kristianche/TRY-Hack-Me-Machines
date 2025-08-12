@@ -1,7 +1,7 @@
 # IP Address
 
 ```json
-10.10.155.145
+
 ```
 
 # URL
