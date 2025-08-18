@@ -11,14 +11,17 @@
             "id": "2d8c1dadaff7fa2a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Vulnversity/Port 3333 (HTTP).md",
-                "mode": "source",
-                "source": false
+                "file": "Vulnversity/Map.canvas",
+                "viewState": {
+                  "x": 674.5,
+                  "y": 164,
+                  "zoom": -1
+                }
               },
-              "icon": "lucide-file",
-              "title": "Port 3333 (HTTP)"
+              "icon": "lucide-layout-dashboard",
+              "title": "Map"
             }
           }
         ]
@@ -202,10 +205,15 @@
   },
   "active": "2d8c1dadaff7fa2a",
   "lastOpenFiles": [
-    "Attachments/Pasted image 20250812165141.png",
     "Vulnversity/Host.md",
+    "Vulnversity/Map.canvas",
+    "Vulnversity/Getting Reverse Shell.md",
+    "Vulnversity/Untitled.md",
+    "Attachments/Pasted image 20250813000755.png",
+    "Attachments/Pasted image 20250813000234.png",
     "Vulnversity/Port 3333 (HTTP).md",
     "Vulnversity/Active Recon.md",
+    "Attachments/Pasted image 20250812165141.png",
     "Attachments/Pasted image 20250807130951.png",
     "Attachments/Pasted image 20250807130720.png",
     "Attachments/Pasted image 20250807125356.png",
@@ -218,12 +226,9 @@
     "Attachments/Pasted image 20250712125757.png",
     "TryHackME/Vulnversity/Host.md",
     "TryHackME/Security Principles.md",
-    "Attachments/Pasted image 20250712104526.png",
     "Linux/Linux Book/Part 1 - Learning the Shell/1- What is the shell.md",
     "TryHackME/Vulnversity",
     "Linux/Linux Book/Part 1 - Learning the Shell/2 - Navigation.md",
-    "Attachments/Pasted image 20250624230726.png",
-    "Attachments/Pasted image 20250624230441.png",
     "Linux/Linux Book/Part 1 - Learning the Shell/Untitled.md",
     "Linux/Linux Book/Part 1 - Learning the Shell",
     "Linux/Linux Book",
@@ -250,13 +255,10 @@
     "Virtual Machines/VMWorkstation Pro Machine Download (Ubuntu).md",
     "Recon - APR25/Metadata.md",
     "CP - MAR25/Metadata.md",
-    "Recon - APR25/L6 - System Scanning/Untitled.md",
-    "Recon - APR25/L3 - Active Recon/Untitled.md",
     "CP - MAR25/L1 - How WebApps Are Working/WebApps.canvas",
     "CP - MAR25/L1 - How WebApps Are Working/Web Servers.canvas",
     "INTRO - FEB25/L5 - Setup/Network.canvas",
     "INTRO - FEB25/Softuni/Pentesting.canvas",
-    "INTRO - FEB25/L5 - Setup/Setup.canvas",
-    "INTRO - FEB25/L4 - Skill Paths/Compa.canvas"
+    "INTRO - FEB25/L5 - Setup/Setup.canvas"
   ]
 }
