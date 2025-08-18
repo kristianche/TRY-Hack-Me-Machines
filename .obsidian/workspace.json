@@ -15,9 +15,9 @@
               "state": {
                 "file": "Vulnversity/Map.canvas",
                 "viewState": {
-                  "x": 674.5,
-                  "y": 164,
-                  "zoom": -1
+                  "x": 380,
+                  "y": 192,
+                  "zoom": -0.34395440121736154
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -205,14 +205,16 @@
   },
   "active": "2d8c1dadaff7fa2a",
   "lastOpenFiles": [
+    "Vulnversity/Active Recon.md",
     "Vulnversity/Host.md",
-    "Vulnversity/Map.canvas",
     "Vulnversity/Getting Reverse Shell.md",
-    "Vulnversity/Untitled.md",
+    "Vulnversity/Recon",
+    "Vulnversity/Port 3333 (HTTP).md",
+    "README.md",
+    "Vulnversity/Recon/Active Recon.md",
+    "Vulnversity/Map.canvas",
     "Attachments/Pasted image 20250813000755.png",
     "Attachments/Pasted image 20250813000234.png",
-    "Vulnversity/Port 3333 (HTTP).md",
-    "Vulnversity/Active Recon.md",
     "Attachments/Pasted image 20250812165141.png",
     "Attachments/Pasted image 20250807130951.png",
     "Attachments/Pasted image 20250807130720.png",
@@ -248,13 +250,11 @@
     "Recon Exam/Exam/185.218.124.165/Scope.md",
     "Recon Exam/Recon Exam Pass Strategy.canvas",
     "Recon Exam/Exam/185.218.124.165",
-    "Recon Exam/Exam",
     "Untitled.canvas",
     "PPMG (Pen Test)/PPMG (Pen Test).md",
     "Virtual Machines/Mind Map.canvas",
     "Virtual Machines/VMWorkstation Pro Machine Download (Ubuntu).md",
     "Recon - APR25/Metadata.md",
-    "CP - MAR25/Metadata.md",
     "CP - MAR25/L1 - How WebApps Are Working/WebApps.canvas",
     "CP - MAR25/L1 - How WebApps Are Working/Web Servers.canvas",
     "INTRO - FEB25/L5 - Setup/Network.canvas",
