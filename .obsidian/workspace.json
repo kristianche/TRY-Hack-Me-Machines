@@ -23,8 +23,21 @@
               "icon": "lucide-layout-dashboard",
               "title": "Map"
             }
+          },
+          {
+            "id": "38834b13162d800c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.10"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -193,6 +206,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -203,7 +217,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2d8c1dadaff7fa2a",
+  "active": "38834b13162d800c",
   "lastOpenFiles": [
     "Vulnversity/Active Recon.md",
     "Vulnversity/Host.md",
