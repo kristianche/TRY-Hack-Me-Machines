@@ -28,12 +28,14 @@
             "id": "38834b13162d800c",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.9.10"
+                "file": "Vulnversity/Getting Reverse Shell.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.10"
+              "icon": "lucide-file",
+              "title": "Getting Reverse Shell"
             }
           }
         ],
